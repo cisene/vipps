@@ -26,3 +26,46 @@ vipps:
   category:
   - rødekors
   web: https://www.rodekors.no/lokalforeninger/ostfold/rade/
+
+- entry: 11591
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Bergen
+  category:
+  - rødekors
+  web: https://www.rodekors.no/lokalforeninger/hordaland/bergen/
+
+- entry: 88189
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Moss
+  category:
+  - rødekors
+  web: https://mossrk.no/
+
+- entry: 119628
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Stavanger
+  category:
+  - rødekors
+  web: https://www.srkh.no/
+
+- entry: 22329
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Bø og Sauherad
+  category:
+  - rødekors
+  web: https://www.bosauheradrk.no/
+
+- entry: 100149
+  orgName: Norges Røde Kors
+  orgNumber: 970529438
+  comment: Trondheim
+  category:
+  - rødekors
+  web: http://www.rodekors.no/lokalforeninger/trondelag/trondheim/
+
+
+
