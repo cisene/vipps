@@ -9,3 +9,20 @@ vipps:
   category:
   - rødekors
   web: https://www.rodekors.no/
+
+
+- entry: 108480
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Karmøy
+  category:
+  - rødekors
+  web: https://www.karmoyrk.no/
+
+- entry: 596030
+  orgName: Norges Røde Kors
+  orgNumber:
+  comment: Råde
+  category:
+  - rødekors
+  web: https://www.rodekors.no/lokalforeninger/ostfold/rade/
